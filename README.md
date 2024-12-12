@@ -1,0 +1,1 @@
+This repository demonstrates a common error in assembly programming: out-of-bounds array access using scaled indexing. The `bug.asm` file contains code that is vulnerable to this issue. The `bugSolution.asm` file provides a corrected version with boundary checks.
